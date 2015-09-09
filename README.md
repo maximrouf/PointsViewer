@@ -1,6 +1,6 @@
 # Points Viewer (Ver. 0.35)
 
-Allows to show Vuforia trackable points in Unity Editor
+Allows to show Vuforia trackable points (feature points) in Unity Editor
 
 It can help you to debug your marker image
 
